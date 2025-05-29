@@ -4,10 +4,15 @@ For the final project in my CISC3225:Data Tools and Algorithm course at Brooklyn
 
 Key Steps
 Data Preparation: Handled missing values, transformed data types, and prepared categorical variables for modeling using one-hot encoding.
+
 Cluster Analysis: Applied K-Means clustering to identify distinct audio profiles within the dataset and visualized these clusters using Principal Component Analysis (PCA).
+
 Feature Engineering: Created categorical features representing the top 20 artists and genres, and transformed the duration variable using a logarithmic transformation.
+
 Exploratory Data Analysis: Identified trends in song popularity across different genres, audio features, and categorical variables.
+
 Model Development: Built Random Forest Regression models to predict song popularity based on both categorical and continuous variables. I then developed a Random Forest Classifier to predict broad song genres based on audio features.
+
 Model Evaluation: Assessed model performance using R² scores for regression models and F1-scores for classification models. Conducted statistical tests (Kruskal-Wallis, Chi-Squared) to evaluate the significance of genre and explicit content on popularity.
 
 Data Source: https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset
