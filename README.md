@@ -11,4 +11,5 @@ Model Development: Built Random Forest Regression models to predict song popular
 Model Evaluation: Assessed model performance using R² scores for regression models and F1-scores for classification models. Conducted statistical tests (Kruskal-Wallis, Chi-Squared) to evaluate the significance of genre and explicit content on popularity.
 
 Data Source: https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset
+
 Read the full written report here: https://docs.google.com/document/d/1oI0G2-on5nPM-Z1wLNkL9xNwBcJpx6TzH5r7Srn6zdw/edit?tab=t.0
